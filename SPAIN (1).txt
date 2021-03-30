@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1,ES: #0 HD
+https://kielbasa.live:443/Adam1/Adam1/486360
+#EXTINF:-1,ES: 24 Horas
+https://kielbasa.live:443/Adam1/Adam1/486361
+#EXTINF:-1,ES: 40 TV
+https://kielbasa.live:443/Adam1/Adam1/486362
+#EXTINF:-1,ES: A&E
+https://kielbasa.live:443/Adam1/Adam1/486363
+#EXTINF:-1,ES: AMC
+https://kielbasa.live:443/Adam1/Adam1/486364
+#EXTINF:-1,ES: AXN HD
+https://kielbasa.live:443/Adam1/Adam1/486365
+#EXTINF:-1,ES: AXN WHITE HD
+https://kielbasa.live:443/Adam1/Adam1/486366
+#EXTINF:-1,ES: BABY TV
+https://kielbasa.live:443/Adam1/Adam1/486367
+#EXTINF:-1,ES: BARCA TV
+https://kielbasa.live:443/Adam1/Adam1/486368
+#EXTINF:-1,ES: beIN LA Liga FHD
+https://kielbasa.live:443/Adam1/Adam1/486370
+#EXTINF:-1,ES: beIN Laliga 1 HD Backup
+https://kielbasa.live:443/Adam1/Adam1/486371
+#EXTINF:-1,ES: BeiN Laliga FHD
+https://kielbasa.live:443/Adam1/Adam1/486372
+#EXTINF:-1,ES: Bein Liga HD
+https://kielbasa.live:443/Adam1/Adam1/486373
+#EXTINF:-1,ES: beIN Sport FHD
+https://kielbasa.live:443/Adam1/Adam1/486374
+#EXTINF:-1,ES: Bein Sport HD
+https://kielbasa.live:443/Adam1/Adam1/486375
+#EXTINF:-1,ES: Boing
+https://kielbasa.live:443/Adam1/Adam1/486376
+#EXTINF:-1,ES: CALLE 13 HD
+https://kielbasa.live:443/Adam1/Adam1/486377
+#EXTINF:-1,ES: Canal  DEPORTES HD
+https://kielbasa.live:443/Adam1/Adam1/486378
+#EXTINF:-1,ES: CANAL COCINA
+https://kielbasa.live:443/Adam1/Adam1/486379
+#EXTINF:-1,ES: Canal DCINE HD
+https://kielbasa.live:443/Adam1/Adam1/486380
+#EXTINF:-1,ES: Canal De Las Estrellas
+https://kielbasa.live:443/Adam1/Adam1/486381
+#EXTINF:-1,ES: CANAL DECASA
+https://kielbasa.live:443/Adam1/Adam1/486382
+#EXTINF:-1,ES: Canal SERIES HD
+https://kielbasa.live:443/Adam1/Adam1/486383
+#EXTINF:-1,ES: Canal SERIES XTRA HD
+https://kielbasa.live:443/Adam1/Adam1/486384
+#EXTINF:-1,ES: Caza y pesca
+https://kielbasa.live:443/Adam1/Adam1/486385
+#EXTINF:-1,ES: Clan Tve
+https://kielbasa.live:443/Adam1/Adam1/486386
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+https://kielbasa.live:443/Adam1/Adam1/486387
+#EXTINF:-1,ES: COSMO HD
+https://kielbasa.live:443/Adam1/Adam1/486388
+#EXTINF:-1,ES: Crimen Investigation
+https://kielbasa.live:443/Adam1/Adam1/486389
+#EXTINF:-1,ES: CUATRO HD
+https://kielbasa.live:443/Adam1/Adam1/486390
+#EXTINF:-1,ES: DISCOVERY
+https://kielbasa.live:443/Adam1/Adam1/486391
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+https://kielbasa.live:443/Adam1/Adam1/486392
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+https://kielbasa.live:443/Adam1/Adam1/486393
+#EXTINF:-1,ES: DISNEY JUNIOR
+https://kielbasa.live:443/Adam1/Adam1/486394
+#EXTINF:-1,ES: DISNEY XD
+https://kielbasa.live:443/Adam1/Adam1/486395
+#EXTINF:-1,ES: DIVINITY
+https://kielbasa.live:443/Adam1/Adam1/486396
+#EXTINF:-1,ES: DKISS
+https://kielbasa.live:443/Adam1/Adam1/486397
+#EXTINF:-1,ES: DMAX
+https://kielbasa.live:443/Adam1/Adam1/486398
+#EXTINF:-1,ES: Energy
+https://kielbasa.live:443/Adam1/Adam1/486399
+#EXTINF:-1,ES: EuroNews
+https://kielbasa.live:443/Adam1/Adam1/486400
+#EXTINF:-1,ES: EUROSPORT 1
+https://kielbasa.live:443/Adam1/Adam1/486401
+#EXTINF:-1,ES: EUROSPORT 2
+https://kielbasa.live:443/Adam1/Adam1/486402
+#EXTINF:-1,ES: Extremadura HD
+https://kielbasa.live:443/Adam1/Adam1/486403
+#EXTINF:-1,ES: EXTREMADURA TV
+https://kielbasa.live:443/Adam1/Adam1/486404
+#EXTINF:-1,ES: FDF
+https://kielbasa.live:443/Adam1/Adam1/486405
+#EXTINF:-1,ES: FOX HD
+https://kielbasa.live:443/Adam1/Adam1/486406
+#EXTINF:-1,ES: GOL Tv
+https://kielbasa.live:443/Adam1/Adam1/486407
+#EXTINF:-1,ES: HOLLYWOOD HD
+https://kielbasa.live:443/Adam1/Adam1/486408
+#EXTINF:-1,ES: IBERALIA
+https://kielbasa.live:443/Adam1/Adam1/486409
+#EXTINF:-1,ES: LA 2 HD
+https://kielbasa.live:443/Adam1/Adam1/486410
+#EXTINF:-1,ES: La Liga BAR HD
+https://kielbasa.live:443/Adam1/Adam1/486411
+#EXTINF:-1,ES: M COMEDIA HD
+https://kielbasa.live:443/Adam1/Adam1/486412
+#EXTINF:-1,ES: MEGA
+https://kielbasa.live:443/Adam1/Adam1/486413
+#EXTINF:-1,ES: Mega TV
+https://kielbasa.live:443/Adam1/Adam1/486414
+#EXTINF:-1,ES: MEZZO LIVE HD
+https://kielbasa.live:443/Adam1/Adam1/486415
+#EXTINF:-1,ES: Movistar Accion HD
+https://kielbasa.live:443/Adam1/Adam1/486416
+#EXTINF:-1,ES: Movistar CineDoc&Roll
+https://kielbasa.live:443/Adam1/Adam1/486418
+#EXTINF:-1,ES: Movistar ESTRENOS HD
+https://kielbasa.live:443/Adam1/Adam1/486419
+#EXTINF:-1,ES: Movistar Futbol
+https://kielbasa.live:443/Adam1/Adam1/486420
+#EXTINF:-1,ES: MOVISTAR MOTOGP
+https://kielbasa.live:443/Adam1/Adam1/486421
+#EXTINF:-1,ES: Movistar Partidazo HD (event only)
+https://kielbasa.live:443/Adam1/Adam1/486422
+#EXTINF:-1,ES: Movistar Vamos
+https://kielbasa.live:443/Adam1/Adam1/486423
+#EXTINF:-1,ES: Movistar XTRA HD
+https://kielbasa.live:443/Adam1/Adam1/486424
+#EXTINF:-1,ES: MTV ESPANA
+https://kielbasa.live:443/Adam1/Adam1/486425
+#EXTINF:-1,ES: NAT GEO WILD HD
+https://kielbasa.live:443/Adam1/Adam1/486426
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
+https://kielbasa.live:443/Adam1/Adam1/486427
+#EXTINF:-1,ES: NEOX
+https://kielbasa.live:443/Adam1/Adam1/486428
+#EXTINF:-1,ES: NICK Jr
+https://kielbasa.live:443/Adam1/Adam1/486429
+#EXTINF:-1,ES: NICKELODEON HD
+https://kielbasa.live:443/Adam1/Adam1/486430
+#EXTINF:-1,ES: Nonstop People
+https://kielbasa.live:443/Adam1/Adam1/486431
+#EXTINF:-1,ES: NOVA
+https://kielbasa.live:443/Adam1/Adam1/486432
+#EXTINF:-1,ES: Odisea
+https://kielbasa.live:443/Adam1/Adam1/486433
+#EXTINF:-1,ES: PANDA
+https://kielbasa.live:443/Adam1/Adam1/486434
+#EXTINF:-1,ES: Paramount
+https://kielbasa.live:443/Adam1/Adam1/486435
+#EXTINF:-1,ES: Real Madrid Channel
+https://kielbasa.live:443/Adam1/Adam1/486436
+#EXTINF:-1,ES: SOMOS
+https://kielbasa.live:443/Adam1/Adam1/486437
+#EXTINF:-1,ES: SYFY
+https://kielbasa.live:443/Adam1/Adam1/486438
+#EXTINF:-1,ES: TAQUILLA 1
+https://kielbasa.live:443/Adam1/Adam1/486439
+#EXTINF:-1,ES: TAQUILLA 10
+https://kielbasa.live:443/Adam1/Adam1/486440
+#EXTINF:-1,ES: TAQUILLA 2
+https://kielbasa.live:443/Adam1/Adam1/486441
+#EXTINF:-1,ES: TAQUILLA 3
+https://kielbasa.live:443/Adam1/Adam1/486442
+#EXTINF:-1,ES: TAQUILLA 4
+https://kielbasa.live:443/Adam1/Adam1/486443
+#EXTINF:-1,ES: TAQUILLA 5
+https://kielbasa.live:443/Adam1/Adam1/486444
+#EXTINF:-1,ES: TAQUILLA 6
+https://kielbasa.live:443/Adam1/Adam1/486445
+#EXTINF:-1,ES: TAQUILLA 7
+https://kielbasa.live:443/Adam1/Adam1/486446
+#EXTINF:-1,ES: TCM HD
+https://kielbasa.live:443/Adam1/Adam1/486447
+#EXTINF:-1,ES: TELECINCO HD
+https://kielbasa.live:443/Adam1/Adam1/486448
+#EXTINF:-1,ES: TNT
+https://kielbasa.live:443/Adam1/Adam1/486449
+#EXTINF:-1,ES: VIAJAR HD
+https://kielbasa.live:443/Adam1/Adam1/486450
+#EXTINF:-1,ES: XTRM
+https://kielbasa.live:443/Adam1/Adam1/486451
+#EXTINF:-1,ES:ANTENA 3 HD
+https://kielbasa.live:443/Adam1/Adam1/486452
+#EXTINF:-1,ES:Canal  DEPORTES 2 HD
+https://kielbasa.live:443/Adam1/Adam1/486453
+#EXTINF:-1,ES:Canal  FUTBOL HD
+https://kielbasa.live:443/Adam1/Adam1/486454
+#EXTINF:-1,ES:Canal  GOLF HD
+https://kielbasa.live:443/Adam1/Adam1/486455
+#EXTINF:-1,ES:Canal  LIGA HD
+https://kielbasa.live:443/Adam1/Adam1/486456
+#EXTINF:-1,ES:Canal  TOROS HD
+https://kielbasa.live:443/Adam1/Adam1/486457
+#EXTINF:-1,ES:FOX LIFE HD
+https://kielbasa.live:443/Adam1/Adam1/486458
+#EXTINF:-1,ES:HISTORIA
+https://kielbasa.live:443/Adam1/Adam1/486459
+#EXTINF:-1,ES:LA 1 HD
+https://kielbasa.live:443/Adam1/Adam1/486460
+#EXTINF:-1,ES:RTVE
+https://kielbasa.live:443/Adam1/Adam1/486461
+#EXTINF:-1,ES:TELEDEPORTE HD
+https://kielbasa.live:443/Adam1/Adam1/486462
